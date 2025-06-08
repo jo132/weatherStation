@@ -1,1 +1,3 @@
 # weatherStation
+
+by Alex Galvez
